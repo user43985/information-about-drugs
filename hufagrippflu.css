@@ -1,0 +1,168 @@
+.hufagrippflu-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hufagrippflu-hufagrippflu {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hufagrippflu-rectangle6 {
+  top: 221px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.hufagrippflu-rectangle7 {
+  top: 274px;
+  left: 720px;
+  width: 412px;
+  height: 31px;
+  position: absolute;
+}
+.hufagrippflu-rectangle8 {
+  top: 327px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.hufagrippflu-text {
+  top: 16px;
+  left: 560px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-text02 {
+  top: 226px;
+  left: 903px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-text04 {
+  top: 226px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-text06 {
+  top: 277px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-text08 {
+  top: 330px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-rectangle11 {
+  top: 21px;
+  left: 14px;
+  width: 188px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20px;
+}
+.hufagrippflu-text10 {
+  top: 32px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-rectangle10 {
+  top: 382px;
+  left: 722px;
+  width: 619px;
+  height: 274px;
+  position: absolute;
+}
+.hufagrippflu-text12 {
+  top: 398px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  width: 570px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufagrippflu-hufagriphufagripflusirup60mlfull022 {
+  top: 226px;
+  left: 98px;
+  width: 545px;
+  height: 544px;
+  position: absolute;
+}

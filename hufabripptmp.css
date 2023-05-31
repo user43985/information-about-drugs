@@ -1,0 +1,168 @@
+.hufabripptmp-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.hufabripptmp-hufabripptmp {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.hufabripptmp-rectangle6 {
+  top: 221px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.hufabripptmp-rectangle7 {
+  top: 274px;
+  left: 720px;
+  width: 412px;
+  height: 31px;
+  position: absolute;
+}
+.hufabripptmp-rectangle8 {
+  top: 327px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.hufabripptmp-text {
+  top: 21px;
+  left: 565px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-text02 {
+  top: 226px;
+  left: 903px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-text04 {
+  top: 226px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-text06 {
+  top: 277px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-text08 {
+  top: 330px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-rectangle11 {
+  top: 21px;
+  left: 14px;
+  width: 188px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20px;
+}
+.hufabripptmp-text10 {
+  top: 32px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.hufabripptmp-hufagrip-ibuprofen-tmp60ml1 {
+  top: 135px;
+  left: 143px;
+  width: 540px;
+  height: 540px;
+  position: absolute;
+}
+.hufabripptmp-rectangle10 {
+  top: 387px;
+  left: 720px;
+  width: 619px;
+  height: 275px;
+  position: absolute;
+}
+.hufabripptmp-text12 {
+  top: 403px;
+  left: 740px;
+  color: rgba(0, 0, 0, 1);
+  width: 570px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

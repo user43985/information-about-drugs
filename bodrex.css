@@ -1,0 +1,168 @@
+.bodrex-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.bodrex-bodrex {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.bodrex-rectangle6 {
+  top: 221px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.bodrex-rectangle7 {
+  top: 274px;
+  left: 720px;
+  width: 412px;
+  height: 31px;
+  position: absolute;
+}
+.bodrex-rectangle8 {
+  top: 327px;
+  left: 722px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.bodrex-rectangle5 {
+  top: 226px;
+  left: 108px;
+  width: 525px;
+  height: 408px;
+  position: absolute;
+}
+.bodrex-text {
+  top: 28px;
+  left: 667px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-text02 {
+  top: 226px;
+  left: 903px;
+  color: rgba(0, 0, 0, 1);
+  width: 188px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-text04 {
+  top: 226px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-text06 {
+  top: 277px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-text08 {
+  top: 330px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-rectangle9 {
+  top: 21px;
+  left: 24px;
+  width: 188px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20px;
+}
+.bodrex-text10 {
+  top: 32px;
+  left: 83px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.bodrex-rectangle11 {
+  top: 387px;
+  left: 722px;
+  width: 619px;
+  height: 291px;
+  position: absolute;
+}
+.bodrex-text12 {
+  top: 403px;
+  left: 742px;
+  color: rgba(0, 0, 0, 1);
+  width: 570px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

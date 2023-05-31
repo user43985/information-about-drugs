@@ -1,0 +1,152 @@
+.paracetamol-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.paracetamol-paracetamol {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.paracetamol-rectangle11 {
+  top: 53px;
+  left: 41px;
+  width: 188px;
+  height: 55px;
+  position: absolute;
+  border-radius: 20px;
+}
+.paracetamol-text {
+  top: 64px;
+  left: 100px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.paracetamol-oip41 {
+  top: 177px;
+  left: 151px;
+  width: 474px;
+  height: 474px;
+  position: absolute;
+}
+.paracetamol-rectangle111 {
+  top: 232px;
+  left: 720px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.paracetamol-rectangle12 {
+  top: 286px;
+  left: 720px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.paracetamol-rectangle13 {
+  top: 340px;
+  left: 720px;
+  width: 410px;
+  height: 31px;
+  position: absolute;
+}
+.paracetamol-text02 {
+  top: 233px;
+  left: 735px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.paracetamol-text04 {
+  top: 289px;
+  left: 735px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.paracetamol-text06 {
+  top: 343px;
+  left: 735px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.paracetamol-rectangle15 {
+  top: 401px;
+  left: 720px;
+  width: 619px;
+  height: 336px;
+  position: absolute;
+}
+.paracetamol-text08 {
+  top: 417px;
+  left: 740px;
+  color: rgba(0, 0, 0, 1);
+  width: 570px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.paracetamol-text13 {
+  top: 48px;
+  left: 563px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
